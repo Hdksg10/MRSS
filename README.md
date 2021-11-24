@@ -12,3 +12,8 @@
 
 由于github文件存储大小限制，使用前需先解压`./tts/tacotron2.zip`
 
+### 依赖
+
+- Tensorflow>=2.4.0
+- TensorflowTTS
+- 
