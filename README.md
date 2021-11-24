@@ -1,1 +1,2 @@
+Medication reminder system for seniors
 #基于SQL与TTS技术的视障人士用药辅助提醒系统
