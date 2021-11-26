@@ -26,7 +26,7 @@ int main(int argc, char* argv[])
     proc.mapperJson = "../../../tensorflow_tts/processor/pretrained/ljspeech_mapper.json";
     proc.sampleRate = 22050;
 #elif BAKER
-    proc.mapperJson = "../lib/tensorflowtts/baker_mapper.json";
+    proc.mapperJson = "../lib/tensorflow_tts/processor/pretrained/baker_mapper.json";
     proc.sampleRate = 24000;
 #endif
 
