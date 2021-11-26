@@ -8,6 +8,8 @@
 
 该demo目前仅在Windows-x64与Linux-x64平台上完成运行，尚未移植到IoT平台。
 
+TTS_on_ARM理论上可在树莓派4b(ARMv7l架构)上使用，尚未通过测试。
+
 ## 安装
 
 由于github文件存储大小限制，使用前需先解压`./tts/tacotron2.zip`
