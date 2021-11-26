@@ -1,0 +1,3 @@
+/home/wu/ttsdemo/build/CMakeFiles/rebuild_cache.dir
+/home/wu/ttsdemo/build/CMakeFiles/edit_cache.dir
+/home/wu/ttsdemo/build/CMakeFiles/demo.dir
