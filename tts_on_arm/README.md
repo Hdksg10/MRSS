@@ -1,0 +1,3 @@
+# TensorflowTTS on ARM
+
+该demo已经在理论上完成了基于ARM平台的代码重构，使用时需删除build文件夹并重新使用cmake构建
