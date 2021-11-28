@@ -4,7 +4,7 @@
 # database: ?
 # Modules required: requests,lxml,(database connection)
 # -*- coding: utf-8 -*-
-# author:Shen tongle in DASE_ECNU 2021
+# author:Ghostlikei from DASE_ECNU 2021
 
 import requests
 from lxml import etree
