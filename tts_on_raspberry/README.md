@@ -17,8 +17,10 @@
 
 注意：在安装llvmlite之前，需要先安装LLVM
 
+
+
 ```bash
-sudo apt-get install llvm7
+sudo apt-get install llvm-7
 ```
 
 ### 构建：
@@ -43,3 +45,15 @@ make
 输出音频文件会保存在build目录下。
 
 在输入字符串中插入#3可以制造停顿。
+
+
+
+### Requirments
+- numpy==1.21.4
+- scipy==1.7.3
+- scikit-learn==1.0.1
+
+- SoundFile==0.10.3.post1
+- numba==0.48.0
+- llvmlite==0.31.0
+- librosa==0.8.1
