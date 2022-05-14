@@ -12,4 +12,4 @@
 
 - 在树莓派上部署的TensorflowLite模型(Fastspeech2 & MulitbandMelGan)
 - 在树莓派上部署的SQLite及相关API
-- 树莓派蓝牙控制，与智能手机连接，信息传输
+- 树莓派蓝牙控制，与智能手机连接和信息传输
